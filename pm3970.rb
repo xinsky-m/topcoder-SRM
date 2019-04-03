@@ -1,4 +1,4 @@
-# https://community.topcoder.com/stat?c=problem_statement&pm=3970&rd=7993
+# https://community.topcoder.com/stat?c=problem_statement&pm=3970
 
 class AutoLoan
   def interestRate(price, monthlyPayment, loanTerm)
